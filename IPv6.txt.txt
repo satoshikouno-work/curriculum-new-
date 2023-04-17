@@ -15,4 +15,4 @@
 
 （３）MACアドレス：FFFF.FFFF.FFFF
           インターフェースID:FC FF FF FF FE FF FF FF
-                       FD FF FF FF FE FF FF Ff
+                       FD FF FF FF FE FF FF Ff（正）
